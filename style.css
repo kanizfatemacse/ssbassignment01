@@ -1,0 +1,116 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+body{
+	
+}
+img{
+	max-width:100%;
+	display:block;
+	
+}
+header{
+	
+}
+.container {
+}
+
+.logo {
+}
+.logo img{
+	
+}
+nav{
+	
+}
+nav ul{
+	
+}
+nav ul li{
+	
+}
+nav ul li a{
+	
+}
+
+
+.banner-section {
+}
+
+.container.banner-content {
+}
+
+.banner-heading {
+	
+}
+.banner-heading h1{
+	
+}
+.banner-heading span{
+	
+}
+
+.menu-item {
+	
+}
+.menu-item img {
+	
+}
+.menu-item h3 {
+	
+}
+.menu-item p {
+}
+
+
+.read-more{
+	
+}
+.read-more a {
+	
+}
+.our-news-section {
+}
+
+.heading {
+}
+.heading h2 {
+}
+
+.news h3 {
+}
+.news p{
+	
+}
+.news img {
+	
+}
+.news a {
+	
+}
+.news a:hover{{
+}
+
+.newsletter-section {
+}
+
+.newsletter {
+	
+}
+.newsletter h1{
+}
+.newsletter  p {
+}
+
+.signup {
+	
+}
+.signup input {
+	
+}
+.signup input[type="email"]{
+}
+.signup input[type="submit"]{
+}
